@@ -1,0 +1,8 @@
+node_modules/
+.venv/
+trabalhos/
+saidas/
+config.json
+tools/personmask
+.DS_Store
+assets/spark.svg

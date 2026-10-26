@@ -1,0 +1,18 @@
+{
+  "nome": "Seu Nome",
+  "nomeCompleto": "SEU NOME COMPLETO",
+  "perfil": "@seuperfil",
+  "grafico": [
+    { "rotulo": "Reel 1", "valor": 197000 },
+    { "rotulo": "Reel 2", "valor": 139000 },
+    { "rotulo": "Reel 3", "valor": 121000 },
+    { "rotulo": "Reel 4", "valor": 76000 },
+    { "rotulo": "Reel 5", "valor": 41000 },
+    { "rotulo": "Reel 6", "valor": 26000 },
+    { "rotulo": "Reel 7", "valor": 15000 }
+  ],
+  "textos": {
+    "spotlight": { "palavra": "CLAUDIT" },
+    "comment-box": { "palavra": "claude" }
+  }
+}

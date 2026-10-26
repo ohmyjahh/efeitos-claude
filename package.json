@@ -1,0 +1,22 @@
+{
+  "name": "efeitos-claude",
+  "version": "1.0.0",
+  "private": true,
+  "description": "/efeito — 17 efeitos de vídeo para reels aplicados por um comando no Claude Code (Remotion)",
+  "scripts": {
+    "studio": "remotion studio src/index.tsx",
+    "typecheck": "tsc --noEmit -p ."
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.532",
+    "@remotion/google-fonts": "4.0.532",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.532",
+    "simple-icons": "16.34.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}
